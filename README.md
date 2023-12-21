@@ -21,7 +21,7 @@ Visual Reports: Display income and expense on daily basis with date and notes
 - Storage: 20MB of free storage space
   
   ## Installation
-- Download: Get the app from Releases.
+- Download: Get the app from https://github.com/MaishaFnokshi/expense-tracker/releases/tag/v1.0.0
 - Install: Open the downloaded APK file and follow the on-screen instructions to install the app.
 
   
